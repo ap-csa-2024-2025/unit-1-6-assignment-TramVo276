@@ -2,6 +2,7 @@ public class Problem1
 {
   public static void main(String[] args)
   {
-    // insert code here
+    double num = 6 / 20;
+    System.out.print(num);
   }
 }
